@@ -1,0 +1,363 @@
+@media only screen and (max-width:1200px){
+    .menu2 button{
+        margin-bottom: 70px;
+    }
+
+    .images{
+        padding-left: 700px;
+    }
+
+    .m1 h1{
+        padding-right: 400px ;
+    }
+    .stolb3 .text1{
+        width: 550px;
+    }
+    
+    .stolb3 .text2{
+        width: 550px;
+    }
+
+    .button_service {
+        margin-left: 200px;
+    }
+
+    .images{
+            padding-left: 650px;
+    }
+}
+
+@media only screen and (max-width:1100px){
+   
+    .menu2 button{
+        margin-bottom: 30px;
+    }
+
+
+    .images{
+        padding-left: 500px;
+    }
+
+    .m1 h1{
+        padding-right: 300px ;
+    }
+
+    .statistic{
+        padding-left: 130px; 
+    }
+
+    .button_service {
+        margin-left: 150px;
+    }
+
+    
+
+    .bet_aa a{
+        margin: 10px;
+    }
+    
+
+}
+
+@media only screen and (max-width:1000px){
+    .what_customers{
+        text-align: center;
+        display: flex;
+        flex-direction:column;
+    }
+
+    .img1{
+        padding-top: 20px;
+    }
+    .stollb{
+       
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+        
+    }
+
+    .stolb1{
+        padding-top: 100px;
+    }
+
+    .menu  {
+        padding: 30px;
+    }
+
+    .menu h1{
+        margin-right: 200px;
+    }
+
+    .statistic{
+        padding-left: 80px; 
+    }
+
+    .button_service {
+        margin-left: 100px;
+    }
+
+    .stolb3{
+        padding-top: 50px;
+    }
+
+    .stolb2 {
+        padding-top: 80px;
+    }
+
+    .images{
+        padding-left: 400px;
+    }
+
+    .m1 h1{
+        padding-right: 200px ;
+    }
+
+    .but{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:980px){
+    .menu2{
+        display: flex;
+        flex-direction:column;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .menu2 h1{
+        text-align: center;
+    }
+
+    .menu2 h2{
+        text-align: center;
+    }
+
+    .menu2 button{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:900px){
+    .images{
+        padding-left: 300px;
+    }
+
+    .m1 h1{
+        padding-right: 100px ;
+    }
+    .menu h1{
+        margin-right:100px;
+    }
+
+    .statistic{
+        padding-left: 30px; 
+    }
+
+    .button_service {
+        margin-left: 50px;
+    }
+
+    .top{
+        width: 700px;
+        
+    }
+
+    .m1{
+        display: flex;
+        flex-direction:column;
+    }
+
+    .azaz {
+        display: flex;
+    }
+
+    .aa {
+        padding-top: 30px;
+        text-align: start;
+    }
+
+    .tex {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .tex p {
+        margin-top: 40px;
+    }
+
+    .wraps{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .color1{
+        display: table;
+        width: 100%;
+    }
+
+    .color2{
+        display: table;
+        width: 100%;
+    }
+    .color3{
+        display: table;
+        width: 100%;
+    }
+    .color4{
+        display: table;
+        width: 100%;
+    }
+
+    
+}
+
+@media only screen and (max-width:770px){
+    .menu {
+        display: flex;
+        flex-direction:column;
+    }
+
+    .bet_aa{
+        padding-top: 50px;
+        margin-left: 50px;
+    }
+
+    .menu img{
+        margin-left: 60px;
+    }
+
+    .menu h1{
+        margin-left: 60px;
+    }
+
+    .images{
+        padding-left: 100px;
+    }
+
+    .top{
+        width: 400px;
+        
+    }
+
+   
+}
+
+@media only screen and (max-width:720px){
+    .top{   
+        width: 600px;
+        height: 50px;
+        
+    }
+
+    .fa-angle-down img {
+        margin-left: 550px;
+    }
+}
+
+@media only screen and (max-width:650px){
+    .top{   
+        width: 450px;
+        height: 50px;
+    }
+
+    .img1{
+        padding-top: 20px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .img2{
+        padding-top: 50px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .fa-angle-down img {
+        margin-left: 400px;
+    }
+
+    .gga{
+        display: flex;
+        flex-direction: column;
+       
+    }
+
+    .table2{
+        padding-top: 40px;
+    }
+}
+
+@media only screen and (max-width:600px){
+    
+    .stolb2 img {
+        display: flex;
+        flex-direction: column;
+    }
+
+    
+
+    .photo img{
+        width: 30%;
+        height: 30%;
+    }
+
+    .imgtext{
+        width: auto;
+        height: auto;
+        margin: 8px;
+    }
+
+    .m2{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .images img{
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width:500px){
+    .top{   
+        width: auto;
+        height: auto;
+    }
+
+    .fa-angle-down img {
+        margin-left: 300px;
+    }
+
+    .menu h1{
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width:500px){
+    .fa-angle-down img {
+        margin-left: 200px;
+    }
+}
+@media only screen and (max-width:450px){
+    input{
+        padding-top: auto;
+    }
+}
+@media only screen and (max-width:360px){
+    .menu h1 {
+        float: right;
+        margin-left: 10px;
+        margin-right: auto;
+    }
+
+    .m2{
+        margin-left: 30px;
+    }
+
+    .images img{
+        margin-left: auto;
+    }
+}
